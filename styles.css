@@ -1,7 +1,8 @@
 h1 {
     font-size: 70px;
-    color: #404E4D;
+    color: #1D1E2C;
     text-align: center;
+    margin-bottom: -20px;
 }
 
 h2 {
@@ -13,7 +14,7 @@ h2 {
 body {
     margin: 0 auto;
     max-width: 800px;
-    background-color: #D1D9D8;
+    background-color: #FDFAFA;
     margin-bottom: 30px;
 }
 
@@ -23,4 +24,8 @@ img {
     border-radius: 10px;
     margin-top: 30px;
     margin-bottom: 30px;
+}
+
+p {
+    color:#1D1E2C;
 }
